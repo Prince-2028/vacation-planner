@@ -4,7 +4,6 @@ This website allows users to explore different travel destinations, check out ho
 Technologies Used
 HTML5: Structure of the website
 CSS3: Styling and layout
-
-<a href="https://prince-2028.github.io/vacation-planner/">
+ <a href="https://prince-2028.github.io/vacation-planner/"> travel websites</a>
 
    
